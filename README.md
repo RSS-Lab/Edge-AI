@@ -23,5 +23,5 @@ Once the VM is created, you'll be able to install QEMU and the required developm
 
 ```bash
 sudo apt update
-sudo apt install qemu
-sudo apt install build-essential
+
+`apt`
