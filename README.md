@@ -24,4 +24,6 @@ Once the VM is created, you'll be able to install QEMU and the required developm
 ```bash
 sudo apt update
 
+for doing sth more better
+```bash
 sudo apt install python3
