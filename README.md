@@ -21,9 +21,5 @@ Once the VM is created, you'll be able to install QEMU and the required developm
 - To install **WSL** on Windows, you can follow the guide [here](https://docs.microsoft.com/en-us/windows/wsl/install).
 - To install **Ubuntu** on VirtualBox, use this [guide](https://www.youtube.com/watch?v=p4P0s9GtDDM).
 
-```bash
-sudo apt update
 
-for doing sth more better
-```bash
-sudo apt install python3
+`sudo apt update`
