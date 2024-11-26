@@ -23,11 +23,3 @@ Once the VM is created, you'll be able to install QEMU and the required developm
 
 
 
-First, update your package list:
-
-```bash
-sudo apt update
-
-`apt update`
-
-
