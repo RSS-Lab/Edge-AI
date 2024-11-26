@@ -21,3 +21,13 @@ Once the VM is created, you'll be able to install Spike and the required develop
 - To install **Ubuntu** on VirtualBox, windows 10 use this [guide](https://www.youtube.com/watch?v=f3QdUOD2vOs).
 
 
+# Installation Guide for Spike RISC-V ISA Simulator
+
+For detailed information about the Spike simulator, visit the official documentation [here](https://www.yorku.ca/professor/drsmith/2024/07/28/getting-started-with-risc-v-spike-simulator/)
+
+To install the Spike RISC-V ISA Simulator, follow the step-by-step instructions provided on this [page](https://github.com/riscv-software-src/riscv-isa-sim).
+
+To set up the RISC-V GNU Compiler Toolchain, refer to the installation steps available on this [page](https://github.com/riscv-collab/riscv-gnu-toolchain/blob/master/README.md).
+
+To install the Proxy Kernel, follow the instructions provided on this [page](https://github.com/riscv-software-src/riscv-pk).
+
