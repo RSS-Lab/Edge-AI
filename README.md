@@ -17,7 +17,7 @@ Operating System: A Linux distribution like Ubuntu 22.04 LTS
 Once the VM is created, you'll be able to install Spike and the required development tools on it. This setup will allow you to run simple C and assembly programs using the RISC-V simulator and use GDB to inspect and debug the contents of registers.
 
 - To install **WSL** on Windows, you can follow the guide [here](https://docs.microsoft.com/en-us/windows/wsl/install).
-- To install **Ubuntu** on VirtualBox, use this [guide](https://www.youtube.com/watch?v=p4P0s9GtDDM).
+- To install **Ubuntu** on VirtualBox, use this [guide](https://www.youtube.com/watch?v=L9ya49O5CIY).
 
 
 
