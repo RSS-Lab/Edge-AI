@@ -26,8 +26,5 @@ Once the VM is created, you'll be able to install QEMU and the required developm
 ```bash
 sudo apt update
 
-now u van do this
-```bash
-sudo apt
-
-
+# ols
+sks
