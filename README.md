@@ -23,13 +23,11 @@ Once the VM is created, you'll be able to install QEMU and the required developm
 
 
 
-### توضیحات:
-- **Text** توضیحات شما رو در متن جداگانه نشون می‌ده.
-- **Code blocks** (با استفاده از backticks) کدها رو داخل باکس‌های جداگانه قرار می‌ده و این باعث می‌شه که کاربر بتونه کد رو راحت کپی کنه.
-
-### نتیجه:
-
-To begin, you should update your package list to ensure you have the latest information.
-
 ```bash
 sudo apt update
+
+now u van do this
+```bash
+sudo apt
+
+
