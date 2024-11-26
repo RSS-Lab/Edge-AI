@@ -14,10 +14,10 @@ RAM: 4GB (minimum) or more
 
 Storage: 50GB+ of disk space (to accommodate the Linux system and tools)
 
-Operating System: A Linux distribution like Ubuntu.
+Operating System: A Linux distribution like Ubuntu 22.04 LTS
 
 Once the VM is created, you'll be able to install QEMU and the required development tools on it. This setup will allow you to run simple C and assembly programs using the RISC-V emulator and use GDB to inspect and debug the contents of registers.
 
-To install WSL on Windows, you can follow the guide here.
+- To install **WSL** on Windows, you can follow the guide [here](https://docs.microsoft.com/en-us/windows/wsl/install).
+- To install **Ubuntu** on VirtualBox, use this [guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview).
 
-To install Ubuntu on VirtualBox, use this 
