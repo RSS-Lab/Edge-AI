@@ -1,7 +1,7 @@
 # SPIKE
 The Spike simulator is a command-line application for RISC-V development. It allows for both 32-bit and 64-bit simulations and supports multiple variants of RISC-V types. It’s an alternative to using the Segger emSim simulator, which has both a graphical mode and a command line mode and. It’s also more up-to-date and widely-used than the RVS simulator that we have been using at York University for a few years.
 # Prerequisites
-For the installation process, you'll need a Linux-based system. If you're on Windows, you can use WSL (Windows Subsystem for Linux) or VirtualBox to create a virtual machine with the necessary Linux environment. VirtualBox recommanded.
+For the installation process, you'll need a Linux-based system. If you're on Windows, you can use WSL (Windows Subsystem for Linux) or VirtualBox to create a virtual machine with the necessary Linux environment. VirtualBox highlyrecommanded.
 
 Virtual Machine Specifications:
 To set up your virtual machine, you can create a VM with the following specifications:
