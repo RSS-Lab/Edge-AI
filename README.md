@@ -1,9 +1,7 @@
-# Qemu
-QEMU (Quick Emulator) is an open-source virtualization tool that allows you to run operating systems and programs designed for one architecture on a machine with a different architecture. It supports various CPU architectures, including x86, ARM, PowerPC, and RISC-V. QEMU simulates the target architecture at both the hardware level (like CPU and memory) and software level, enabling you to run software as if it were on actual hardware.
-
-For RISC-V, QEMU provides a powerful simulator that allows developers to emulate RISC-V systems without needing physical RISC-V hardware. This is especially useful for development, testing, and debugging of RISC-V applications or operating systems in a virtualized environment. With QEMU's flexibility, you can simulate RISC-V systems of different configurations, from simple embedded devices to more complex setups, depending on your needs.
+# SPIKE
+The Spike simulator is a command-line application for RISC-V development. It allows for both 32-bit and 64-bit simulations and supports multiple variants of RISC-V types. It’s an alternative to using the Segger emSim simulator, which has both a graphical mode and a command line mode and. It’s also more up-to-date and widely-used than the RVS simulator that we have been using at York University for a few years.
 # Prerequisites
-For the installation process, you'll need a Linux-based system. If you're on Windows, you can use WSL (Windows Subsystem for Linux) or VirtualBox to create a virtual machine with the necessary Linux environment.
+For the installation process, you'll need a Linux-based system. If you're on Windows, you can use WSL (Windows Subsystem for Linux) or VirtualBox to create a virtual machine with the necessary Linux environment. VirtualBox recommanded.
 
 Virtual Machine Specifications:
 To set up your virtual machine, you can create a VM with the following specifications:
@@ -12,11 +10,11 @@ CPU: 2+ cores (depending on your system resources)
 
 RAM: 4GB (minimum) or more
 
-Storage: 50GB+ of disk space (to accommodate the Linux system and tools)
+Storage: 60GB+ of disk space (to accommodate the Linux system and  riscv toolchains)
 
 Operating System: A Linux distribution like Ubuntu 22.04 LTS
 
-Once the VM is created, you'll be able to install QEMU and the required development tools on it. This setup will allow you to run simple C and assembly programs using the RISC-V emulator and use GDB to inspect and debug the contents of registers.
+Once the VM is created, you'll be able to install Spike and the required development tools on it. This setup will allow you to run simple C and assembly programs using the RISC-V simulator and use GDB to inspect and debug the contents of registers.
 
 - To install **WSL** on Windows, you can follow the guide [here](https://docs.microsoft.com/en-us/windows/wsl/install).
 - To install **Ubuntu** on VirtualBox, use this [guide](https://www.youtube.com/watch?v=p4P0s9GtDDM).
