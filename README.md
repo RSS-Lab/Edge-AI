@@ -10,7 +10,9 @@ To set up your virtual machine, you can create a VM with the following specifica
 
 CPU: 2+ cores (depending on your system resources)
 RAM: 4GB (minimum) or more
+
 Storage: 50GB+ of disk space (to accommodate the Linux system and tools)
+
 Operating System: A Linux distribution like Ubuntu.
 Once the VM is created, you'll be able to install QEMU and the required development tools on it. This setup will allow you to run simple C and assembly programs using the RISC-V emulator and use GDB to inspect and debug the contents of registers.
 
