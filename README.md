@@ -21,7 +21,13 @@ Once the VM is created, you'll be able to install QEMU and the required developm
 - To install **WSL** on Windows, you can follow the guide [here](https://docs.microsoft.com/en-us/windows/wsl/install).
 - To install **Ubuntu** on VirtualBox, use this [guide](https://www.youtube.com/watch?v=p4P0s9GtDDM).
 
-```bash
-sudo apt update
 
-`apt`
+1. First, update the package list:
+   `sudo apt update`
+
+2. Next, install QEMU:
+   `sudo apt install qemu`
+
+3. Then, install essential build tools:
+   `sudo apt install build-essential`
+
