@@ -22,7 +22,9 @@ Once the VM is created, you'll be able to install Spike and the required develop
 
 # Github Codespace
 GitHub Codespaces is an online development environment powered by Visual Studio Code that provides cloud-based, configurable environments for development. It allows developers to set up a full development environment with a few clicks and access it from anywhere. GitHub Codespaces aims to simplify the process of setting up and configuring development tools, and it's especially useful for collaborative projects where contributors need an easy and standardized setup.
+
 How to Use GitHub Codespaces:
+
 [GitHub Codespaces Official Page](https://github.com/features/codespaces)
 
 
