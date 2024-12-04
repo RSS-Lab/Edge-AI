@@ -27,7 +27,7 @@ How to Use GitHub Codespaces:
 
 [GitHub Codespaces Official Page](https://github.com/features/codespaces)
 
-[Startb using CodeSpace](https://github.com/codespaces)
+[Start using CodeSpace](https://github.com/codespaces)
 
 
 # Installation Guide for Spike RISC-V ISA Simulator
